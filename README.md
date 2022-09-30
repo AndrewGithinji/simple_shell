@@ -1,1 +1,1 @@
-Creating our own simple shell.
+This is a simple UNIX command line interpreter implementation. The shell is capable of interpreting and executing command line arguments read via standard input. It reads a file or the terminal line line by line. The lines are then interpreted and executed if they are valid commands.
